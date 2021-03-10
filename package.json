@@ -1,0 +1,11 @@
+{
+  "name": "redux-details",
+  "version": "1.0.0",
+  "description": "Redux in detail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhinav Sharma",
+  "license": "MIT"
+}
